@@ -206,19 +206,17 @@ be useful. Post on X + LinkedIn; reference it later in the WorkOS loop.
 > https://www.npmjs.com/package/forgekit-radix-mcp
 
 **LinkedIn:**
-> Coding agents are great at Radix — until they aren't. They hallucinate prop names,
-> drop required parts, and miss the accessibility contract entirely (treating a Tooltip
-> as a label, or giving a Select an empty-string item value).
+> Coding agents are great at Radix — until they aren't. They hallucinate props, drop
+> required parts, and miss the a11y contract (a Tooltip used as a label, a Select with
+> an empty-string item value).
 >
-> Props you can infer from types. The a11y contract you can't — it's hand-authored
-> knowledge. So I built **forgekit-radix-mcp**: an MCP server that feeds AI coding
-> agents each Radix primitive's parts, props, and — the part nobody else ships — its
-> accessibility contract: roles, keyboard interactions, focus management, and the
-> common mistakes to avoid.
+> Props you can infer from types. The accessibility contract you can't — it's
+> hand-authored. So I built **forgekit-radix-mcp**: an MCP server that hands AI coding
+> agents each Radix primitive's parts, props, and — the part nobody ships — its a11y
+> contract: roles, keyboard, focus, and the mistakes to avoid.
 >
-> 26 primitives covered. Ask an agent to wire a Dialog and it now knows Title is
-> required for the accessible name; ask for a Tooltip and it knows that's not where
-> essential content goes.
+> 26 primitives. Now an agent wiring a Dialog knows Title is required for the accessible
+> name, and that a Tooltip isn't where essential content goes.
 >
 > MIT, part of ForgeKit. https://www.npmjs.com/package/forgekit-radix-mcp
 >
