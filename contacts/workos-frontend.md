@@ -196,11 +196,10 @@ https://github.com/effinrich/forgekit-radix-mcp. Links below are final. Tag nobo
 be useful. Post on X + LinkedIn; reference it later in the WorkOS loop.
 
 **X / Twitter:**
-> AI agents keep hallucinating Radix props and skipping the ARIA contract.
+> AI agents hallucinate Radix props and skip the ARIA contract.
 >
-> So I built an MCP server that hands Claude/Cursor the real thing: every primitive's
-> parts, props, and a11y contract — keyboard model, focus behavior, and the misuse to
-> avoid (a tooltip isn't a label).
+> So I built an MCP server that gives Claude/Cursor each primitive's parts, props, and
+> a11y contract — keyboard, focus, and the misuse to avoid (a tooltip isn't a label).
 >
 > 26 primitives. MIT. 👇
 > https://www.npmjs.com/package/forgekit-radix-mcp
