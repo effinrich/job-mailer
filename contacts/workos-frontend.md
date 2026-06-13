@@ -208,8 +208,7 @@ be useful. Post on X + LinkedIn; reference it later in the WorkOS loop.
 **LinkedIn:**
 > Coding agents are great at Radix — until they aren't. They hallucinate prop names,
 > drop required parts, and miss the accessibility contract entirely (treating a Tooltip
-> as a label, auto-opening a Tooltip nested in a Popover, giving a Select an
-> empty-string item value).
+> as a label, or giving a Select an empty-string item value).
 >
 > Props you can infer from types. The a11y contract you can't — it's hand-authored
 > knowledge. So I built **forgekit-radix-mcp**: an MCP server that feeds AI coding
