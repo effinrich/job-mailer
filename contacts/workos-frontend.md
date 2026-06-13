@@ -190,7 +190,7 @@ clean-n-update, scoped). Tools: list_primitives, get_primitive, get_a11y_contrac
 verified live (26 listed).
 Not yet (YOUR steps): `npm publish` → then post (Channel 8 below).
 
-### CHANNEL 8 — Build-in-public post — ✅ READY TO FIRE
+### CHANNEL 8 — Build-in-public post — ✅ POSTED (X + LinkedIn, 2026-06-13). No @-tags, link + hashtags only.
 npm LIVE: https://www.npmjs.com/package/forgekit-radix-mcp (v0.1.0). Repo:
 https://github.com/effinrich/forgekit-radix-mcp. Links below are final. Tag nobody —
 be useful. Post on X + LinkedIn; reference it later in the WorkOS loop.

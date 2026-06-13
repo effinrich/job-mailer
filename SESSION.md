@@ -32,6 +32,13 @@ Claude will:
 
 <!-- newest first; Claude appends here -->
 
+### 2026-06-13 — WorkOS campaign COMPLETE (all channels fired)
+Build-in-public post LIVE on X + LinkedIn (no @-tags, link + hashtags only). Every
+channel now executed. Mode → watch-and-respond. WATCH: (1) PR #3964 for @chaance
+review — reply fast + well; (2) email/LinkedIn replies from Anna Meyer; (3) npm
+installs + post traction on forgekit-radix-mcp. Follow-up nudge (Channel 6) only if
+no reply in 5–7 days.
+
 ### 2026-06-13 — WorkOS campaign EXECUTED + MCP published
 - Cold email to anna@workos.com SENT (Rich). LinkedIn connect + message to Anna SENT.
 - `forgekit-radix-mcp` PUBLISHED to npm: https://www.npmjs.com/package/forgekit-radix-mcp
