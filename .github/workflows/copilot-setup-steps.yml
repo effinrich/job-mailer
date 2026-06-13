@@ -21,5 +21,7 @@ jobs:
         timeout-minutes: 10
 
         steps:
+            # Checkout gives Copilot a clean working copy to start from.
+            # Add dependency-install steps here as the project grows.
             - name: Checkout code
               uses: actions/checkout@v4
