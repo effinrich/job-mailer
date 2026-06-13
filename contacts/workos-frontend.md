@@ -199,7 +199,7 @@ be useful. Post on X + LinkedIn; reference it later in the WorkOS loop.
 > AI agents hallucinate Radix props and skip the ARIA contract.
 >
 > Built an MCP server that gives Claude/Cursor each primitive's parts, props, and a11y
-> contract — keyboard, focus, and what to avoid (a tooltip isn't a label).
+> contract: keyboard, focus, what to avoid (a tooltip isn't a label).
 >
 > 26 primitives. MIT. 👇
 > https://www.npmjs.com/package/forgekit-radix-mcp
