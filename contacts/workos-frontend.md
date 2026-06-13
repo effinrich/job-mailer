@@ -198,7 +198,7 @@ be useful. Post on X + LinkedIn; reference it later in the WorkOS loop.
 **X / Twitter:**
 > AI agents hallucinate Radix props and skip the ARIA contract.
 >
-> So I built an MCP server that gives Claude/Cursor each primitive's parts, props, and
+> I built an MCP server that gives Claude/Cursor each primitive's parts, props, and
 > a11y contract — keyboard, focus, and the misuse to avoid (a tooltip isn't a label).
 >
 > 26 primitives. MIT. 👇
