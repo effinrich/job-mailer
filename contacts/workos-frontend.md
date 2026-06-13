@@ -190,11 +190,10 @@ clean-n-update, scoped). Tools: list_primitives, get_primitive, get_a11y_contrac
 verified live (26 listed).
 Not yet (YOUR steps): `npm publish` → then post (Channel 8 below).
 
-### CHANNEL 8 — Build-in-public post
-Repo LIVE: https://github.com/effinrich/forgekit-radix-mcp (public, pushed).
-`[LINK]` → use the GitHub URL now, OR wait for `npm publish` and use
-`https://npmjs.com/package/forgekit-radix-mcp` (stronger — shows installs later).
-Recommend: publish npm first, link npm. Tag nobody — be useful.
+### CHANNEL 8 — Build-in-public post — ✅ READY TO FIRE
+npm LIVE: https://www.npmjs.com/package/forgekit-radix-mcp (v0.1.0). Repo:
+https://github.com/effinrich/forgekit-radix-mcp. Links below are final. Tag nobody —
+be useful. Post on X + LinkedIn; reference it later in the WorkOS loop.
 
 **X / Twitter:**
 > AI agents keep hallucinating Radix props and skipping the ARIA contract.
@@ -204,7 +203,7 @@ Recommend: publish npm first, link npm. Tag nobody — be useful.
 > avoid (a tooltip isn't a label).
 >
 > 26 primitives. MIT. 👇
-> [LINK]
+> https://www.npmjs.com/package/forgekit-radix-mcp
 
 **LinkedIn:**
 > Coding agents are great at Radix — until they aren't. They hallucinate prop names,
@@ -222,7 +221,7 @@ Recommend: publish npm first, link npm. Tag nobody — be useful.
 > required for the accessible name; ask for a Tooltip and it knows that's not where
 > essential content goes.
 >
-> MIT, part of ForgeKit. [LINK]
+> MIT, part of ForgeKit. https://www.npmjs.com/package/forgekit-radix-mcp
 >
 > #accessibility #react #radixui #ai #mcp
 

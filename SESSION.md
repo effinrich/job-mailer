@@ -32,6 +32,14 @@ Claude will:
 
 <!-- newest first; Claude appends here -->
 
+### 2026-06-13 — WorkOS campaign EXECUTED + MCP published
+- Cold email to anna@workos.com SENT (Rich). LinkedIn connect + message to Anna SENT.
+- `forgekit-radix-mcp` PUBLISHED to npm: https://www.npmjs.com/package/forgekit-radix-mcp
+  v0.1.0 latest. Verified live via `npx -y forgekit-radix-mcp` (26 primitives, tools work).
+- Build-in-public post (Channel 8) finalized with real npm link — READY to post (X + LinkedIn).
+- Pipeline status → `sent`.
+Remaining: post build-in-public; watch PR #3964 + email/LinkedIn replies.
+
 ### 2026-06-13 — Radix MCP → standalone public repo
 Moved `forgekit-radix-mcp` OUT of forgekit-v2 into its own repo:
 - Local: `~/Documents/GitHub/forgekit-radix-mcp` (self-contained configs, npm-based).

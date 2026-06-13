@@ -5,7 +5,7 @@ One row per contact. This is the home screen: glance here, know everything.
 
 | Contact | Company | Role angle | Status | Next action | Due |
 |---------|---------|------------|--------|-------------|-----|
-| WorkOS (campaign) | WorkOS | SWE, Frontend (Radix/design systems) | `in-gmail` | Cold email to Anna Meyer verified + in Drafts → **Send**; PR [#3964](https://github.com/radix-ui/primitives/pull/3964) open; MCP repo live → npm publish + post | — |
+| WorkOS (campaign) | WorkOS | SWE, Frontend (Radix/design systems) | `sent` | Email sent + LinkedIn connect/msg done; MCP [published on npm](https://www.npmjs.com/package/forgekit-radix-mcp); PR [#3964](https://github.com/radix-ui/primitives/pull/3964) open → post build-in-public; watch for replies | — |
 
 <!--
 Keep this table in sync with the contacts/ files. When a contact closes, you may
