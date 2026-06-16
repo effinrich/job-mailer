@@ -9,7 +9,7 @@ One row per contact. This is the home screen: glance here, know everything.
 | Aleph (campaign) | Aleph | Sr Frontend (AI) — FP&A data UIs | `researching` | Apply via Ashby (jobs.ashbyhq.com/aleph) w/ tailored cover letter (generated); then find recruiter → outreach | — |
 | Cortex (campaign) | Cortex | Sr Product Design Engineer (IDP) | `researching` | Apply via Greenhouse + cover letter (generated); lead w/ portfolio; find contact → outreach | — |
 | Infisical (campaign) | Infisical | Design Engineer, Platform (OSS security) | `researching` | Apply via Ashby + cover letter (generated); first-DS + a11y angle; find contact → outreach | — |
-| LiveKit (campaign) | LiveKit | Design Eng / Sr FE Cloud (real-time infra) | `researching` | Pick role variant; apply via Ashby + cover letter (generated); find contact → outreach | — |
+| LiveKit (campaign) | LiveKit | Product Engineer (dev surfaces/CLI, agentic infra) | `researching` | Apply via Ashby + cover letter (Product Eng, ForgeKit-led); cold email ready → recruiting@livekit.io | — |
 
 <!--
 Keep this table in sync with the contacts/ files. When a contact closes, you may

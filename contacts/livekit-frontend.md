@@ -1,51 +1,63 @@
-# LiveKit — Design Engineer / Sr Frontend Engineer, Cloud (campaign)
+# LiveKit — Product Engineer (campaign)
 
-- **Role angle:** ✅ LOCKED → **Senior Frontend Engineer, Cloud** — React component lifecycle, gRPC-web/Connect Query, contribute to design system. (Chose over Design Engineer: Cloud rewards his architecture + design-system + gRPC strengths; Design Engineer's motion/animation center is his weaker axis.)
-- **Company:** LiveKit — real-time audio/video infra (WebRTC); backbone of voice-AI agents. Redpoint-backed.
-- **Comp:** not posted (infra startup, competitive). Remote.
-- **Apply:** Ashby via livekit.io/careers (jid 463e2769-bb85-4429-96a3-3a175eb228cd)
-- **Stack:** React, Next.js, TypeScript (strict), Tailwind, gRPC-web/Connect Query, design system.
+- **Role angle:** ✅ LOCKED → **Product Engineer** — build the dev-facing surfaces (dashboards, **CLI**, observability, debug) that turn LiveKit's APIs into a platform. Core engineering, product-instinct-driven. (Chose over Sr FE Cloud + Design Engineer: ForgeKit makes this a *standout* fit, not just another senior FE.)
+- **Company:** LiveKit — infra layer for the agentic era; real-time/voice AI. Powers OpenAI, Salesforce, Spotify, Meta. Founded 2021. Remote (SF Bay a plus).
+- **Comp:** competitive salary + equity (not posted).
+- **Apply:** Ashby via livekit.io/careers.
+- **Contact:** ✅ **recruiting@livekit.io** (in the JD — real, no guessing).
+- **Stack:** TypeScript (primary) + Go ("plus", not required), modern web frameworks, end-to-end. Nice-to-have: dev platforms/SDKs/CLIs, K8s/observability, OSS infra, realtime/AV/AI.
 - **Status:** `researching` (not yet applied)
-- **Fit:** 8.5/10 — design system + React/Next/TS + gRPC; hot AI-agent infra space.
+- **Fit:** 9/10 — ForgeKit (CLI + MCP dev tooling) = literal bullseye for "build dev-facing surfaces with product instinct + DX."
 
-## Why them
-LiveKit is the connective tissue for real-time + voice-AI products — the frontend is
-where devs first feel if it's good. Design-system-backed, performant, interactive UI on
-real-time infra = Rich's wheelhouse. AI-agent audience ties his ForgeKit/MCP work. gRPC
-experience (PHC, Pineapple) means the API boundary isn't a learning curve.
+## Why them (the differentiator)
+The role is "build the surfaces developers use to ship agentic apps — dashboards, CLI,
+observability." ForgeKit IS that genre (CLI + MCP servers + Storybook/CI), so Rich isn't
+one-more-senior-FE — he's a maker of exactly this kind of product, with OSS + AI-native
+proof. Go is the only soft gap ("plus"), and the distributed-systems/K8s/gRPC adjacency
+(PHC Global) covers the infra nice-to-haves.
 
-## Tailoring — emphasize
-1. Design-system contribution/ownership (50–200 components).
-2. Clean strict TS across full React/Next component lifecycle.
-3. **gRPC / gRPC-web comfort** (PHC Global, Pineapple) — most FE folks lack this.
-4. Performant interactive/motion UI (40% render-overhead cut).
-5. AI-agent angle — ForgeKit/MCP = understands LiveKit's developer users.
+## Tailoring — emphasize (ForgeKit FIRST)
+1. **ForgeKit = dev-facing surfaces shipped end-to-end** (CLI + 2 MCP servers + Storybook/CI). The exact product shape.
+2. **DX product instinct** — "shape of the experience," measure + iterate on real adoption.
+3. Infra/observability adjacency — gRPC, Helm, Kubernetes, GCP (PHC Global).
+4. Agentic-AI native — MCP = agent-callable tooling; he's the developer audience.
+5. Craft floor — 50–200 component design systems + a11y keep the surfaces sharp.
+De-emphasize: pure design-system framing (it's a supporting strength here, not the lead).
+Note on Go: frame as "deepest in TS; shipped against gRPC/Go services; pick up langs fast."
 
 ## The hook
-"LiveKit is the connective tissue for a generation of real-time and voice-AI products,
-and the frontend is where developers first feel whether the whole thing is good."
+"LiveKit is the infrastructure layer for the agentic era, and the Product Engineer role
+— the dashboards, CLI, and observability surfaces — is the work I'm most distinctively
+suited to. I don't just build frontends; I build the tools developers use."
 
 ## CHANNEL 1 — Ashby apply + cover letter (do first)
-Cover letter: `~/Documents/resume/RichTillman_CoverLetter_LiveKit.docx` (generated, FACTS-clean).
-Decide role: Sr FE Cloud (architecture) vs Design Engineer (motion). Letter fits either; tweak if needed.
+Cover letter: `~/Documents/resume/RichTillman_CoverLetter_LiveKit.docx` (regenerated for Product Engineer, FACTS-clean — leads with ForgeKit/DX/CLI).
 
-## CHANNEL 2 — Cold email — DRAFT, needs a contact (recruiter / FE lead)
-> Subject: Frontend application — design systems + real-time UI (Rich Tillman)
+## CHANNEL 2 — Cold email → recruiting@livekit.io — DRAFT READY (verified real address)
+> Subject: Product Engineer application — I build dev tooling (Rich Tillman)
 >
-> Hi [name] — I applied for the Senior Frontend Engineer, Cloud role. LiveKit is the
-> backbone for a wave of real-time and voice-AI products, and the frontend is where devs
-> first feel if it's good — exactly the work I want. ~10 yrs on the design–engineering
-> seam: design-system-backed React/Next/TS, gRPC at the API boundary, performant
-> interactive UI. Bonus: I build AI-dev tooling (ForgeKit/MCP), so I get your developer
-> users. Live: richtillman.xyz · forgekit.cloud. Happy to do a work sample. Thanks — Rich
+> Hi LiveKit team — I applied for the Product Engineer role. The role is squarely what I
+> do: I don't just build frontends, I build the tools developers use. For the past year
+> my focus has been ForgeKit — an open-source CLI + MCP toolchain (~5,700 npm installs):
+> a CLI that scaffolds production monorepos, two MCP servers exposing tooling to AI
+> agents, and a Storybook/CI pipeline. It's exactly the genre of dev-facing surface
+> you're hiring for, shipped end-to-end, and it's agent-callable — so I understand the
+> developers building agentic AI on LiveKit from the inside. Before that, Engineering
+> Director at Redesign Health (50+ component design system, data-viz perf work).
+> Fastest look at how I build: richtillman.xyz · forgekit.cloud. Happy to do a work
+> sample whenever useful. Thanks — Rich · richtillman@pm.me · github.com/effinrich
 
-## CHANNEL 3 — LinkedIn connect (≤300; find LiveKit recruiter/FE lead)
-> Hi [Name] — applied for the Frontend role. Design-system-backed React/Next/TS, comfy
-> at the gRPC boundary, and I build AI-dev tooling (ForgeKit) so I get LiveKit's
-> developer audience. Portfolio: richtillman.xyz. Would love to be on your radar.
+## CHANNEL 3 — LinkedIn connect (≤300; founders public if you want a warm touch)
+> Hi [Name] — applied for the Product Engineer role. I build dev tooling: ForgeKit, an
+> open-source CLI + MCP toolchain (~5,700 npm installs) — exactly the dev-facing surfaces
+> LiveKit is hiring for, and agent-callable. Portfolio: richtillman.xyz. Would love to be
+> on your radar.
+  (Founders: Russ d'Sa — linkedin.com/in/russelldsa · David Zhao — linkedin.com/in/davidzhao)
 
 ## Next
-- Pick role variant. Find LiveKit contact (recruiter / FE lead; founders Russ d'Sa public). Verify email.
+- Apply via Ashby with the Product-Engineer cover letter. Cold email → recruiting@livekit.io (no verify needed; it's the posted address).
 
 ## History
-- 2026-06-13 — created, cover letter generated. Not yet applied. Apply via Ashby first.
+- 2026-06-13 — created (Sr FE Cloud).
+- 2026-06-15 — RE-LOCKED to Product Engineer (ForgeKit/DX differentiator). Cover letter
+  regenerated. Contact = recruiting@livekit.io (from JD). Not yet applied.
