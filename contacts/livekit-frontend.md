@@ -1,6 +1,6 @@
 # LiveKit — Design Engineer / Sr Frontend Engineer, Cloud (campaign)
 
-- **Role angle:** TWO options — **Design Engineer** (polished interaction/motion, immersive web) OR **Sr Frontend Engineer, Cloud** (React component lifecycle, gRPC-web/Connect Query, contribute to design system). Pick based on appetite: motion-flair vs architecture. Lead = Sr FE Cloud (his strength); Design Engineer if he wants the craft/motion angle.
+- **Role angle:** ✅ LOCKED → **Senior Frontend Engineer, Cloud** — React component lifecycle, gRPC-web/Connect Query, contribute to design system. (Chose over Design Engineer: Cloud rewards his architecture + design-system + gRPC strengths; Design Engineer's motion/animation center is his weaker axis.)
 - **Company:** LiveKit — real-time audio/video infra (WebRTC); backbone of voice-AI agents. Redpoint-backed.
 - **Comp:** not posted (infra startup, competitive). Remote.
 - **Apply:** Ashby via livekit.io/careers (jid 463e2769-bb85-4429-96a3-3a175eb228cd)
@@ -32,7 +32,7 @@ Decide role: Sr FE Cloud (architecture) vs Design Engineer (motion). Letter fits
 ## CHANNEL 2 — Cold email — DRAFT, needs a contact (recruiter / FE lead)
 > Subject: Frontend application — design systems + real-time UI (Rich Tillman)
 >
-> Hi [name] — I applied for the [Sr Frontend / Design Engineer] role. LiveKit is the
+> Hi [name] — I applied for the Senior Frontend Engineer, Cloud role. LiveKit is the
 > backbone for a wave of real-time and voice-AI products, and the frontend is where devs
 > first feel if it's good — exactly the work I want. ~10 yrs on the design–engineering
 > seam: design-system-backed React/Next/TS, gRPC at the API boundary, performant
