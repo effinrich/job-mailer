@@ -103,6 +103,6 @@ try-on campaign drove ~$400K/mo revenue lift. Detail on request.
 | **Monorepo & DX** | Nx, Nx Agents, Turborepo, pnpm workspaces, Module Federation, GitHub Actions, EAS Build |
 | **Testing & a11y** | Vitest, Jest, Playwright, RTL, Storybook a11y, WCAG 2.1 AA |
 
-## Education / certs
+## Certifications
 - Design System Certification — Brad Frost & Dan Mall (Atomic Design methodology)
-- B.A. History, College of Charleston (year omitted per self-taught framing in FACTS.md)
+<!-- NO school/education entry — fully removed per user decision. Do not reintroduce. -->>
