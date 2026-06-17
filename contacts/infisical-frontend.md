@@ -29,7 +29,16 @@ the UI is where that's won or lost."
 ## CHANNEL 1 — Ashby apply + cover letter (do first)
 Cover letter: `~/Documents/resume/RichTillman_CoverLetter_Infisical.docx` (generated, FACTS-clean).
 
-## CHANNEL 2 — Cold email — DRAFT, needs a contact (founder/recruiter)
+## Founders (who to email + why)
+- **Vlad Matsiiako — CEO** 🇺🇦 Ukrainian (surname -ko ending; ex-**Figma** + bunq; Cornell MEng ORIE = data-driven). Public/narrative-driven. **← EMAIL HIM.** Ex-Figma = speaks design-eng natively; first-design-eng is the CEO's strategic hire; rewards concrete metric-backed pitch.
+- **Maidul Islam — CTO** Bangladeshi-American (NYC). Ex-AWS, Node.js, full-stack. Backend/infra builder, heads-down, less public. Wrong target for a design-eng pitch.
+
+## ✅ CHANNEL 2 — Cold email → vlad@infisical.com (Gmail draft id r-6164643269683383878)
+Vlad-specific: leads with his Figma background, Agent-Vault resonance (Rich builds MCP
+for Claude-Code agents), #6783 feature pitch, stack match (TanStack Router + Storybook).
+SEND once Infisical application submitted. (Draft below = the original generic version, kept for reference.)
+
+### (reference) generic cold email draft
 > Subject: Design Engineer (Platform) — first-DS, a11y, OSS (Rich Tillman)
 >
 > Hi [name] — I applied to be your first Design Engineer. Owning the UI of an
