@@ -45,8 +45,41 @@ Cover letter: `~/Documents/resume/RichTillman_CoverLetter_Infisical.docx` (gener
 > (ForgeKit). Being your first design engineer is squarely my shape. Portfolio:
 > richtillman.xyz. Would love to be on your radar.
 
+## Repo recon (2026-06-15)
+- 27k+ stars, TypeScript-heavy. **Frontend stack = TanStack Router + Storybook + strict TS + Vite** (`tsr.config.json`, `.storybook`). = RICH'S EXACT STACK (richtillman.xyz on TanStack Start + Storybook). Huge alignment — call it out.
+- Live frontend issue (show-don't-tell PR target): #1411 "Signup button cutoff on desktop" — `good first issue` + `help wanted` + `👀 frontend`. Visible UI fix = perfect design-eng proof. Also #6639 (login crash on stale cookie), #6124 (stale FE assets).
+
+## CHANNEL 0 — Loom video (optional in app, HIGH leverage — "put a face to it")
+1–2 min, spoken-natural. Grounded in the stack match + first-DS mandate + a11y + OSS:
+
+> Hi — I'm Rich. I'm applying to be Infisical's first Design Engineer, and I wanted to
+> put a face to it.
+>
+> Two reasons I'm genuinely excited. First, the mandate — owning the user-facing
+> experience of an open-source security platform from the component layer up. Security
+> tooling earns trust through clarity, and the UI is where that's won or lost. That's
+> exactly the work I want.
+>
+> Second, I dug into your repo, and you're on TanStack Router, Storybook, and strict
+> TypeScript — that's almost exactly my stack. My own site runs on TanStack Start and
+> Storybook, and I've spent the last year on ForgeKit, an open-source MCP toolchain in
+> the same world.
+>
+> On fit: I've stood up 50-to-200 component React design systems from scratch — the
+> documented patterns a team builds on. I implement accessibility by hand because I
+> actually know the ARIA contract, which your role calls out directly. And I think in
+> reusable, well-documented primitives — the posture an open-source tool needs at the
+> UI layer.
+>
+> I'd love to lay that foundation for your newer product lines. Thanks for watching.
+
+(~190 words ≈ 1.5 min. Trim the ForgeKit line if running long. Record on richtillman.xyz
+or the Storybook open in the background for visual proof.)
+
 ## Next
-- Find Infisical contact (founders public — Vlad Matsiiako / Maidul Islam; or recruiter). Verify email.
+- Apply (done?) → optionally record + attach the Loom (Channel 0).
+- Optional show-don't-tell: fix #1411 → PR (Radix-style proof). Ask Rich if he wants it.
+- Cold email → CEO/CTO pick (vlad@ / maidul@infisical.com), once Rich confirms applied.
 
 ## History
 - 2026-06-13 — created, cover letter generated. Not yet applied. Apply via Ashby first.
