@@ -76,10 +76,35 @@ Cover letter: `~/Documents/resume/RichTillman_CoverLetter_Infisical.docx` (gener
 (~190 words ≈ 1.5 min. Trim the ForgeKit line if running long. Record on richtillman.xyz
 or the Storybook open in the background for visual proof.)
 
+## Repo verdict (deep recon 2026-06-17)
+IN FLUX but WELL-GOVERNED (not messy/unowned):
+- 2 backends: `backend` (Node/TS) + `backend-go` (Go) → strategic migration, not chaos.
+- Frontend mid Next→TanStack migration: `pages/` (old) + `routes/`+`routeTree.gen.ts` (new TanStack Router). Naming churn (`const.ts`/`const/`/`consts/`).
+- Governance solid: CONTRIBUTING, SECURITY, PR template, **20 CI workflows**, per-area CLAUDE.md, conventional commits. 15 PRs merged / ~2 days, **multiple maintainers**, externals DO merge.
+- **Frontend owner = @scott-ray-wilson** (engage his work; he'd review a FE PR).
+- Open issues ~90% backend/security → clean FE targets scarce (FE kept tight).
+
+## ROADMAP angle (cover-letter / Loom GOLD)
+- Expanding into **AI-workload security** — shipped **Agent Vault**: an HTTP credential
+  proxy + vault for AI agents *like Claude Code*. Rich builds MCP tooling FOR Claude Code
+  → deep resonance (he's their exact user + builder audience).
+- Also PKI/certs + PAM (privileged access). New Go server.
+- TWO killer angles for Rich:
+  1. "You're mid Next→TanStack migration — I live on TanStack Router; I've done this exact move."
+  2. "You're building Agent Vault for Claude-Code agents — I build MCP servers for that same audience (ForgeKit)."
+
+## PR target — REVISED
+- #1411 = DEAD (Feb-2024, 16c, picked-over, FE rearchitected). Skip.
+- Issue-fix PRs weak here (FE targets scarce; the few need full-app repro = risk).
+- IF a code artifact wanted: SAFE + on-brand = a **Storybook-isolatable a11y/component
+  improvement** (they have `.storybook` + 40 `.stories.tsx`; testable WITHOUT backend;
+  a11y = Rich's design-eng calling card; they accept "improvement:" PRs). Needs clone + Storybook run.
+- Lower-risk alt: skip PR, lean Loom + cold email (Agent-Vault + migration angles). Strong + safe.
+
 ## Next
-- Apply (done?) → optionally record + attach the Loom (Channel 0).
-- Optional show-don't-tell: fix #1411 → PR (Radix-style proof). Ask Rich if he wants it.
-- Cold email → CEO/CTO pick (vlad@ / maidul@infisical.com), once Rich confirms applied.
+- Loom (Channel 0) → add the Agent-Vault + migration lines if running short on the generic version.
+- Cold email → CEO/CTO pick (vlad@ / maidul@infisical.com), once applied. Weave Agent-Vault resonance.
+- PR: only if Rich wants the Storybook a11y route (testable). Else hold.
 
 ## History
 - 2026-06-13 — created, cover letter generated. Not yet applied. Apply via Ashby first.
